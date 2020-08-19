@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93c91254-9d2e-46d9-bee7-29c461b8c89d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.1/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gH9Y5AhNjEy4S1dBLu1dQMF1mj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build awesomeProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="793" y="472" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597790235895">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="793" y="472" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1597790235895" />
+    <state width="742" height="618" key="DebuggerActiveHint" timestamp="1597798297063">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="742" height="618" key="DebuggerActiveHint/0.23.1920.1177@0.23.1920.1177" timestamp="1597798297063" />
+    <state width="1878" height="292" key="GridCell.Tab.0.bottom" timestamp="1597855125697">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1597855125697" />
+    <state width="1878" height="292" key="GridCell.Tab.0.center" timestamp="1597855125697">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1597855125697" />
+    <state width="1878" height="292" key="GridCell.Tab.0.left" timestamp="1597855125696">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1597855125696" />
+    <state width="1878" height="292" key="GridCell.Tab.0.right" timestamp="1597855125697">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1597855125697" />
+    <state width="1878" height="292" key="GridCell.Tab.1.bottom" timestamp="1597855125698">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1597855125698" />
+    <state width="1878" height="292" key="GridCell.Tab.1.center" timestamp="1597855125697">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1597855125697" />
+    <state width="1878" height="292" key="GridCell.Tab.1.left" timestamp="1597855125697">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1597855125697" />
+    <state width="1878" height="292" key="GridCell.Tab.1.right" timestamp="1597855125698">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="292" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1597855125698" />
+    <state x="555" y="237" key="SettingsEditor" timestamp="1597782256027">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="555" y="237" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1597782256027" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1597849919896">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1920.1177@0.23.1920.1177" timestamp="1597849919896" />
+    <state x="620" y="363" width="670" height="676" key="search.everywhere.popup" timestamp="1597853873261">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="620" y="363" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1597853873261" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>63</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>34</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>47</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>64</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>68</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>69</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpDataProvider.go</url>
+          <line>42</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/DataProvider/HttpProviders/MarketStack.go</url>
+          <line>66</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
